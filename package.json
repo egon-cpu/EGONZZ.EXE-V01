@@ -1,0 +1,16 @@
+{
+  "name": "egonzz-exe-v01",
+  "version": "1.0.0",
+  "description": "Satellite Report Engine for Commander Egonzz",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
